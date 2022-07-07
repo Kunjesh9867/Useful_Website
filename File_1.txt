@@ -1,0 +1,5 @@
+(1) Convertion of one datatype to another (decimal, hexadecimal, octal and binary)
+[ https://www.rapidtables.com/convert/number/binary-to-decimal.html ]
+
+(2) Convert Decimal to 32 bit IEEE
+[ https://rndtool.info/amp/decimal-to-ieee-754-step-by-step-calculator/ ] 
