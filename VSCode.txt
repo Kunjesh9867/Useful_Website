@@ -1,0 +1,11 @@
+**** To change the color of the comment **** 
+
+1. Settings
+2. Type “editor.tokenColorCustomizations” into the search bar
+3. click on “Edit in settings.json”:
+4. By default, “editor.tokenColorCustomizations” is set to “null”. To customize the comment color, you can add:
+5. 
+{
+  "comments": "[color hex code]"
+}
+ 
